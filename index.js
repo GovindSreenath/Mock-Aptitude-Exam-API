@@ -59,7 +59,7 @@ app.post("/api/credentials", (req, res) => {
 });
 
 app.post("/api/apti", (req, res) => {
-  if (req.query.limit <= 30) {
+  if (req.query.limit <= 220) {
     fs.readFile(
       path.join(__dirname, "json", `${req.query.topic}.json`),
       "utf8",
