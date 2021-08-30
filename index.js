@@ -59,7 +59,7 @@ app.post("/api/credentials", (req, res) => {
 });
 
 app.post("/api/apti", (req, res) => {
-  if (req.query.limit <= 220) {
+  if (req.query.limit <= 250) {
     fs.readFile(
       path.join(__dirname, "json", `${req.query.topic}.json`),
       "utf8",
@@ -67,9 +67,7 @@ app.post("/api/apti", (req, res) => {
         if (!err) {
           let test = JSON.parse(data);
           let list = test["mcqs"];
-          const shuffled = list
-            .sort(() => 0.5 - Math.random())
-            .slice(0, req.query.limit);
+          const shuffled = list.slice(0, req.query.limit);
 
           res.json({ mcq: shuffled });
         }
