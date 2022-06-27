@@ -58,10 +58,12 @@ export default class Iterator extends Component {
               className="submit-button"
               disabled={this.state.submitting}
               onClick={() => {
-                this.setState({ submitting: true });
-                this.props.onSubmit();
+                if(window.confirm("Do you really want to submit the exam?")){
+                  this.setState({ submitting: true });
+                  this.props.onSubmit();
+                }
               }}>
-              SUBMIT EXAM{" "}
+              SUBMIT EXAM
               {this.state.submitting ? (
                 <i
                   style={{ marginRight: "5px" }}

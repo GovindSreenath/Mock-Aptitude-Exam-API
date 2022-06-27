@@ -27,9 +27,21 @@ export default class Main extends Component {
   calcResult = (mcqs) => {
     let res = 0;
 
-    mcqs.forEach((val) => {
-      if (val["answer"] === val["selected_index"]) {
-        res++;
+    mcqs.forEach((val, idx) => {
+      if (val["selected_index"]) {
+        console.log(idx,
+          "Answer:",
+          val["answer"],
+          "   Selected:",
+          val["selected_index"],
+          "    Result:",
+          res
+        );
+        if (val["answer"] === val["selected_index"]) {
+          res += 4;
+        } else {
+          res--;
+        }
       }
     });
 
@@ -54,23 +66,22 @@ export default class Main extends Component {
       }
     } catch (err) {
       console.error(err);
+      this.setState({ fetchError: 1 });
     }
   };
 
-  selectedTopic = (id, limit) => {
-    fetch(
-      `https://mock-aptitude-exam-api.herokuapp.com/api/apti?topic=${id}&limit=${limit}`,
-      {
-        method: "POST",
-        headers: {
-          accepts: "application/json",
-        },
-      }
-    )
-      .then((res) => res.json())
-      .then((json) => {
-        this.setState({ mcqs: json.mcq, inExam: 1, whichExam: id });
-      });
+  selectedTopic = async (id, limit) => {
+    try {
+      let res = await axios.get(`/api/apti?topic=${id}&limit=${limit}`);
+
+      this.setState({ mcqs: res.data.mcq, inExam: 1, whichExam: id });
+    } catch (err) {
+      console.error(err);
+    }
+  };
+
+  setMcqs = (mcqs) => {
+    this.setState({ mcqs });
   };
 
   handleSetState = async (data) => {
@@ -137,6 +148,7 @@ export default class Main extends Component {
             id={this.state.id}
             state={this.state}
             setState={this.handleSetState}
+            setMcqs={this.setMcqs}
           />
         ) : (
           <>

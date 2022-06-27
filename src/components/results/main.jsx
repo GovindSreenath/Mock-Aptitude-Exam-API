@@ -20,7 +20,7 @@ export default class Result extends Component {
           <i>Your Score : </i>
           <div className="marks-inner-div">
             <b>
-              {this.props.result * 4} / {this.props.mcqs.length * 4}
+              {this.props.result} / {this.props.mcqs.length * 4}
             </b>
           </div>
           (Note: Without Negative Marking)

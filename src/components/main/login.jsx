@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 // import acesLogo from "./aces-logo.png";
 
 function Login(props) {
-  const [studentId, setStudentId] = useState("TDMC1");
-  const [studentPass, setStudentPass] = useState("1111");
+  const [studentId, setStudentId] = useState("TMSC");
+  const [studentPass, setStudentPass] = useState("123");
   const [fetchingCred, setFetchingCred] = useState(0);
   const [incorrectCred, setIncorrectCred] = useState(0);
 

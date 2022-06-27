@@ -62,7 +62,7 @@ mongoose
       });
     });
 
-    app.post("/api/apti", (req, res) => {
+    app.get("/api/apti", (req, res) => {
       if (req.query.limit <= 250) {
         fs.readFile(
           path.join(__dirname, "json", `${req.query.topic}.json`),
