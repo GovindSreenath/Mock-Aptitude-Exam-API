@@ -9,6 +9,7 @@ import firebase from "../../firebase";
 
 import "bootstrap/dist/css/bootstrap.css";
 import "../../styles/index.css";
+import axios from "axios";
 
 export default class Main extends Component {
   state = {
@@ -23,19 +24,10 @@ export default class Main extends Component {
     mcqs: [],
   };
 
-  // componentDidMount() {
-  //   const storage = localStorage.getItem("main-state");
-  //   storage && this.setState(JSON.parse(storage));
-  // }
-
-  // componentDidUpdate(prevProps, prevState) {
-  //   localStorage.setItem("main-state", JSON.stringify({...this.state, mcqs: []}));
-  // }
-
-  calcResult = mcqs => {
+  calcResult = (mcqs) => {
     let res = 0;
 
-    mcqs.forEach(val => {
+    mcqs.forEach((val) => {
       if (val["answer"] === val["selected_index"]) {
         res++;
       }
@@ -45,23 +37,24 @@ export default class Main extends Component {
   };
 
   onSubmit = async (id, pass) => {
-    await fetch(
-      `https://mock-aptitude-exam-api.herokuapp.com/api/credentials?id=${id}&pass=${pass}`,
-      {
-        method: "POST",
-        headers: {
-          accepts: "application/json",
+    try {
+      let res = await axios({
+        method: "post",
+        url: "/api/credentials",
+        data: {
+          id,
+          pass,
         },
-      },
-    )
-      .then(res => res.json())
-      .then(json => {
-        if (json.status === "success") {
-          this.setState({ loggedIn: 1, id });
-        } else {
-          this.setState({ fetchError: 1 });
-        }
       });
+
+      if (res.data.status === "success") {
+        this.setState({ loggedIn: 1, id });
+      } else {
+        this.setState({ fetchError: 1 });
+      }
+    } catch (err) {
+      console.error(err);
+    }
   };
 
   selectedTopic = (id, limit) => {
@@ -72,15 +65,15 @@ export default class Main extends Component {
         headers: {
           accepts: "application/json",
         },
-      },
+      }
     )
-      .then(res => res.json())
-      .then(json => {
+      .then((res) => res.json())
+      .then((json) => {
         this.setState({ mcqs: json.mcq, inExam: 1, whichExam: id });
       });
   };
 
-  handleSetState = async data => {
+  handleSetState = async (data) => {
     const db = firebase.firestore();
     await db
       .collection(this.state.whichExam)
@@ -90,7 +83,7 @@ export default class Main extends Component {
           score: this.calcResult(data.mcqs),
           time: data.absTime,
         },
-        { merge: true },
+        { merge: true }
       );
 
     this.setState(data);
