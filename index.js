@@ -1,15 +1,9 @@
 const express = require("express");
-const cors = require("cors");
 const path = require("path");
 const fs = require("fs");
 
 const PORT = process.env.PORT || 5000;
 const app = express();
-app.use(cors());
-
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "build", "index.html"));
-});
 
 app.post("/api/saveResult", (req, res) => {
   const id = req.query.id;
@@ -78,8 +72,11 @@ app.post("/api/apti", (req, res) => {
   }
 });
 
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "build", "index.html"));
+});
+
 app.route("/static/*").get((req, res) => {
-  console.log(path.join(__dirname, "build", decodeURI(req.url)));
   res.sendFile(path.join(__dirname, "build", decodeURI(req.url)));
 });
 
