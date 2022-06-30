@@ -23,7 +23,6 @@ export default class Result extends Component {
               {this.props.result} / {this.props.mcqs.length * 4}
             </b>
           </div>
-          (Note: Without Negative Marking)
         </div>
         {/* <div className="questions-div">
           {this.props.mcqs.map((val, index) => {
