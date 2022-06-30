@@ -15,33 +15,17 @@ mongoose
     useUnifiedTopology: true,
   })
   .then(() => {
-    app.post("/api/saveResult", (req, res) => {
-      const id = req.query.id;
-      const result = req.query.result;
-
-      console.log(id, result);
-      fs.readFile(
-        path.join(__dirname, "json", "credentials.json"),
-        "utf8",
-        (err, data) => {
-          if (!err) {
-            data = JSON.parse(data);
-            data[id]["result"] = result;
-
-            fs.writeFile(
-              path.join(__dirname, "json", "credentials.json"),
-              JSON.stringify(data),
-              (err) => {
-                if (err) {
-                  res.json({ msg: "failed" });
-                }
-              }
-            );
-          }
-        }
-      );
-
-      res.json({ msg: "success" });
+    app.post("/api/saveResult", async (req, res) => {
+      try {
+        await Users.updateOne(
+          { userName: req.query.id },
+          { result: req.query.result }
+        );
+        return res.json({ msg: "success" });
+      } catch (err) {
+        console.error(err);
+        return res.json({ msg: "failed" });
+      }
     });
 
     app.post("/api/credentials", (req, res) => {
@@ -55,9 +39,8 @@ mongoose
         }
         if (user.pass === req.body.pass) {
           return res.json({ status: "success" });
-        }
-        else{
-          return res.json({status: "failed"})
+        } else {
+          return res.json({ status: "failed" });
         }
       });
     });

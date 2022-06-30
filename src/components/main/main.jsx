@@ -99,24 +99,24 @@ export default class Main extends Component {
 
     this.setState(data);
 
-    // fetch(
-    //   `https://mock-aptitude-exam-api.herokuapp.com/api/saveResult?id=${
-    //     this.state.id
-    //   }&result=${this.calcResult(data.mcqs)}`,
-    //   {
-    //     method: "POST",
-    //     headers: {
-    //       accepts: "application/json",
-    //     },
-    //   },
-    // )
-    //   .then(res => res.json())
-    //   .then(json => {
-    //     if (json.msg === "success") this.setState(data);
-    //     else {
-    //       console.log("error while saving result");
-    //     }
-    //   });
+    fetch(
+      `/api/saveResult?id=${
+        this.state.id
+      }&result=${this.calcResult(data.mcqs)}`,
+      {
+        method: "POST",
+        headers: {
+          accepts: "application/json",
+        },
+      },
+    )
+      .then(res => res.json())
+      .then(json => {
+        if (json.msg === "success") this.setState(data);
+        else {
+          console.log("error while saving result");
+        }
+      });
   };
 
   logout = () => {
