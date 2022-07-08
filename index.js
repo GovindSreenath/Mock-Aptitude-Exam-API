@@ -17,6 +17,12 @@ mongoose
   .then(() => {
     app.post("/api/saveResult", async (req, res) => {
       try {
+        let user = await Users.findOne({
+          userName: req.query.id
+        });
+        if(user.result){
+          throw new Error("Result already saved for", user.userName)
+        };
         await Users.updateOne(
           { userName: req.query.id },
           { result: req.query.result }
@@ -36,6 +42,11 @@ mongoose
         }
         if (!user) {
           return res.status(400).send("User Not found");
+        }
+        if(user.result){
+          let err = "User" + user.userName + "already attempted";
+          console.error(err);
+          return res.status(400).send(err);
         }
         if (user.pass === req.body.pass) {
           return res.json({ status: "success" });
