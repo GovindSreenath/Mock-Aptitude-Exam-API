@@ -53,7 +53,7 @@ function Login(props) {
             }}>
             {incorrectCred ? (
               <div style={{ color: "red", marginBottom: "10px" }}>
-                Incorrect credentials. Please try again or contact ACES
+                Error Occured. Please try again or contact TDMC
                 coordinators
               </div>
             ) : (
