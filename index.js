@@ -76,12 +76,15 @@ mongoose
 
       let result = await readJsonFile("physics", 50);
       finalResult = finalResult.concat(result);
+      console.log(result.length);
       
       result = await readJsonFile("chemistry", 50);
       finalResult = finalResult.concat(result);
+      console.log(result.length);
       
       result = await readJsonFile("biology", 100);
       finalResult = finalResult.concat(result);
+      console.log(result.length);
 
       return res.json({mcq: finalResult});
     });
@@ -91,6 +94,10 @@ mongoose
     });
 
     app.route("/static/*").get((req, res) => {
+      res.sendFile(path.join(__dirname, "build", decodeURI(req.url)));
+    });
+
+    app.route("/*").get((req, res) => {
       res.sendFile(path.join(__dirname, "build", decodeURI(req.url)));
     });
 

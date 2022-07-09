@@ -8,7 +8,7 @@
       "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
     },
     {
-      "question": "A cricketer catches a ball of mass150 g in 0.1s moving with speed 20m/s, then he experiences force of",
+      "question": "A cricketer catches a ball of mass 150g in 0.1s moving with speed 20m/s, then he experiences force of",
       "options": ["300N", "300", "3N", "3N"],
       "answer": "B",
       "images": [],
@@ -358,6 +358,76 @@
       ],
       "answer": "C",
       "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Hot water cools from 60°C to 50°C in first 10 minutes and from 50°C to 42° C in next 10 minutes. The temperature of surrounding is:",
+      "options": [" 5 °C", "10 ⁰C ", "15 °C ", "20 °C"],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " A body of length 1m having cross sectional area 0.75 m² has heat flow through it at the rate of 6000 Joule/sec. Then find the temperature difference if K -1 = 200 Jm¹ K-1",
+      "options": ["20°C", "40°C ", "80°C", "100°C"],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": "Vrms, Vav, Vmp are root mean square, average and most probable speeds of molecules of a gas obeying Maxwellian velocity distribution. Which of the following statements is correct?",
+      "options": ["Vrms < Vav < Vmp ", " Vrms > Vav > Vmp", " Vrms < Vav > Vmp ", " Vavg> Vrms < Vmp "],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " If the volume of the given mass of a gas is increased four times and the temperature is raised from 27°C to 127°C. The isothermal elasticity will become", 
+      "options": ["4 times ", "1/4 times", "3 times ", "1/3 times "],
+      "answer": "D",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " A body starts from the origin and moves along the X-axis such that the velocity at any instant is given by (4t³ - 2t), where t is in sec and velocity in m/s. What is the acceleration of the particle, when it is 2 m from the origin ?",
+      "options": ["28 m/s² ", "22 m/s² ", "12 m/s²", "10 m/s²"],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " A particle is moving along the path y = x² from x = 0 m to x = 2 m. Then the distance traveled by the particle is: ",
+      "options": ["4 m", "√20 m ", "> √20 m", "<√/20 m "],
+      "answer": "A",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": "A bullet loses of its velocity passing through 1/20 of a plank. The least number of planks required to stop the bullet is (All planks offers same retardation)",
+      "options": ["10", "11", "12", "23"],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " Height at which acceleration due to gravity becomes g/9 ( where g, acceleration due to gravity on earth's surface) in terms of R, the radius of earth is ",
+      "options": ["2R", " R/√2", " R/2", "√2R"],
+      "answer": "A",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    } ,
+{
+      "question": " A body of mass m and radius r falls on Earth from a great height. If M is the mass and R is the radius of earth where r= R/100, then acceleration of the body when it hits the earth is ",
+      "options": ["g", "0.98g", " g/0.98", "9.8g "],
+      "answer": "B",
+      "images": ["", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+{
+      "question": " If suddenly the gravitational force of attraction between earth and a satellite revolving around it becomes zero, the satellite will:",
+      "options": ["continue to move in its orbit with the same velocity ", " move tangentially to the original orbit in the same velocity ", " becomes stationary in its orbit ", " moves towards earth "],
+      "answer": "B",
+      "images": ["", ""],
       "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
     }
   ]

@@ -46,6 +46,11 @@ export default class MCQ extends Component {
             )}{" "}
             Question No. {this.props.number}
           </p>
+          {this.props.mcq.images.length>0 && (
+            <div style={{display: "flex", padding: 20, justifyContent: "space-around"}}>
+            {this.props.mcq.images.map(elem=><img style={{border: "1px solid black"}} height="150px" width="150px" src={"/images/"+elem} alt="Failed to load img" />)}
+            </div>
+          )}
           <div className="questionDiv">
             <div
               className="question"
