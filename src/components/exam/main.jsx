@@ -67,6 +67,16 @@ class MainEngine extends Component {
     );
     this.props.setMcqs(copy);
   };
+  
+  clearAnswer = (id) => {
+    let copy = this.props.mcqs;
+    copy[this.state.index]["selected_index"] = String.fromCharCode(
+      parseInt(id) + 65
+    );
+    delete copy[this.state.index]["selected_index"];
+    console.log(copy);
+    this.props.setMcqs(copy);
+  };
 
   onSubmit = () => {
     this.props.setState({
@@ -127,6 +137,7 @@ class MainEngine extends Component {
               setAnswer={this.setAnswer}
               onSubmit={this.onSubmit}
               onReport={this.onReport}
+              clearAnswer={this.clearAnswer}
               onClickQuestionsModal={this.onClickQuestionsModal}
             />
             {/* <Footer

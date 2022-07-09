@@ -51,9 +51,9 @@ export default class Iterator extends Component {
           </button>
 
           <div className="submit-div">
-            {/* <button className="report-button" onClick={this.onReport}>
-            <i className="fa fa-exclamation-triangle"></i>
-          </button> */}
+            <button className="report-button" onClick={this.props.clearAnswer}>
+            <i className="fa fa-eraser">Clear</i>
+          </button>
             <button
               className="submit-button"
               disabled={this.state.submitting}

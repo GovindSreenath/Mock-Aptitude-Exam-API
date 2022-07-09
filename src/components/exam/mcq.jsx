@@ -69,6 +69,7 @@ export default class MCQ extends Component {
             setIsMarked={() => this.props.setIsMarked()}
             onSubmit={this.props.onSubmit}
             onReport={this.props.onReport}
+            clearAnswer={this.props.clearAnswer}
             onClickQuestionsModal={this.props.onClickQuestionsModal}
           />
         </div>
