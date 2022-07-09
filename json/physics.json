@@ -1,0 +1,364 @@
+{
+  "mcqs": [
+    {
+      "question": "A string of length L and mass M is lying horizontal table .A force F is applied at one of its ends. Tension in the string at a distance y from the end at which the force  applied is",
+      "options": ["zero", "F", "F(L-y)/L. ", "F(L-y)/M"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "A cricketer catches a ball of mass150 g in 0.1s moving with speed 20m/s, then he experiences force of",
+      "options": ["300N", "300", "3N", "3N"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The ratio of the weight of a man in a stationary lift and when it is moving downward with uniform acceleration ‘a’Is 3:2 then the value of ‘a’ is",
+      "options": ["3/2 g", "g/3", "g", "2/3g"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "A large force is acting on a body for a short time. The impulse imparted is equal to the change inacceleration",
+      "options": ["acceleration", "momentum", " energy", " velocity "],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Rocket propulsion is associated with ",
+      "options": [
+        "the conversation of angular momentum ",
+        " the conversation of mass ",
+        " the conversation of mechanical energy ",
+        " newton’s 3 law of motion "
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The dimensional formula for latent heat is :",
+      "options": ["M¹LT-²", "ML²T-²", "M⁰L²T-²", "M¹L¹T¹"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "In a semiconductor, the concentration of electrons is 8×10^14 /cm^3 and that of the holes is 5×10^12/cm^3 .The semiconductor is",
+      "options": [".P type", "N type", "Intrinsic", "PNP type"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The electrical conductivity of  a semiconductor increases when electromagnetic radiation of wavelength shorter than 2480nm is incident on it.The bandgap in (eV) for the semiconductor is",
+      "options": ["0.5", "0.7", "1.1", "2.5"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "in a meter bridge experiment null point is obtained at 20 cm from one end of the wire when resistance x is balanced against another resistance y. if x< y, then where will be the new position of the null point from the same end, if one decides to balance a resistance of 4x against y",
+      "options": ["50 cm", "80 cm", "40 cm", "70 cm"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The resistance of a heater coil is 110 ohm. A resistance R is connected in parallel with it and the combination is joined in series with a resistance of 11 ohm to a 220 volt main line. The heater operates with a power of 110 watt. The value of R in ohm is",
+      "options": [
+        "12.22",
+        "24.4",
+        "Negative",
+        "That the given values are not correct"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "A man has weight W on the surface of the earth.His weight at a height equal to R(R is the radius of earth)",
+      "options": ["W", "W/2", "W/4", "W/8"],
+      "answer": " C",
+      "images": [],
+      "explanation": "  "
+    },
+    {
+      "question": "The height at which the acceleration due to gravity becomes g/9 ( where g is acceleration due to gravity on the surface of the earth) in terms of the radius of the earth,R is",
+      "options": ["R/√2", "R/2", "√2R", "2R"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A body of mass m and radius r falls on earth from a great height. If M is mass and R is the radius of earth while r= R/100 then the acceleration of the body when it hits the earth is: (acceleration due to gravity at earth surface is g)",
+      "options": ["g", "0.98g", "9.8g", "g/0.98"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "What happens to the gravitational potential at the centre of the uniform spherical shell which shrinks gradually?",
+      "options": ["Remains constant", "Decreases", "Increases", "Oscillates"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Choose the factor on which the orbital velocity does not depend when the satellite is orbiting close to the earth’s surface",
+      "options": [
+        "The mass of the earth",
+        "The mass of the satellite",
+        "The orbital radius",
+        "The radius of the earth"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " .Radius of a soap bubble changes from R to 3R, what is the work done in this process?",
+      "options": ["32nR²T", "64nR²T", "16nR²T", "24nR²T"],
+      "answer": "B ",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "The value of g at a place decreases by 2% .Then the baromatic height of mercury is:",
+      "options": [
+        "decreased by 2%",
+        "increased by 2%",
+        "remains unchanged",
+        "increased by 4 %"
+      ],
+      "answer": " B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Copper of fixed volume 'V' decreases into a wire of length 'l' when subjected to a constant force 'f', extension produced is ΔlWhich of the following graph is a straight line",
+      "options": ["Δl vs 1/l", "Δl vs l²", "Δl vs 1/l²", "Δl vs l"],
+      "answer": "B ",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Hooks law is applicable for",
+      "options": [
+        "elastic materials only",
+        "plastic materials only",
+        "elastomers only",
+        "All of these"
+      ],
+      "answer": "A ",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Work done by magnetic field on a charged particle undergoing a circular motion.",
+      "options": ["zero", "qvB", "infinity", "insufficient data"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A galvanometer can be used as a voltmeter by connecting a suitable",
+      "options": [
+        "high resistance in series",
+        "low resistance in series",
+        "high resistance in parallel",
+        "low resistance in parallel"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Magnetic susceptibility is negative for",
+      "options": [
+        "diamagnetic only ",
+        "paramagnetic only",
+        "ferromagnetic only",
+        "paramagnetic and diamagnetic"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Which of the following graphs represent variation of magnetic field B with distance r for a straight long wire carrying current?",
+      "options": ["P", "Q", "R", "S"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " The fundamental frequency in an open organ pipe is equal to the third harmonic of a closed organic pipe . If the length of closed pipe is 20 cm , length of open organ pipe",
+      "options": ["13.2cm", "8cm", "12.5cm", "16cm"],
+      "answer": "A ",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A tuning fork is used to produce a resonance in glass tube. The length of air column in tube can be adjusted by a variable piston.  At a room temperature of 27 degree Celsius, two successive resonance are produced at 20cm and 73cm  column length. If the frequency of tuning fork is 320 Hz, the velocity of sound in air at 27 degree Celsius is ",
+      "options": ["330", "339", "350", "300"],
+      "answer": " B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "The ratio of the amplitude of the two sources producing interference 3 : 5, the ratio of intensities at maxima and minima is",
+      "options": ["25:6", "5:3", "16:1", "25:9"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "In Young’s double-slit experiment, the phase difference between the light waves reaching the third bright fringe from the central fringe will be (λ=6000 Å)",
+      "options": ["zero", "2π", "4π", "6π"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "The threshold frequency for photo electric effect on sodium corresponds to a wavelength 5000 Å. Its work function is ",
+      "options": [
+        "15 joule",
+        "10x 10-19 joule",
+        "4x10-19 joule",
+        "None of these"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " The binding energy of an electron in the ground state of the He atom is equal to 24.6 eV. The energy required to remove both the electrons from the atom will be",
+      "options": ["59eV", "81eV", "79eV", "None of these"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "The work function of metal is 1 eV. Light of wavelength 3000 A is incident on this metal surface. The velocity of emitted photo-electrons will be",
+      "options": ["10m/sec", "110m/sec", "10⁶m/s ", " 10⁴m/s"],
+      "answer": " C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "In a sample off radioactive substance, what percentage decays in one mean life time?",
+      "options": ["70%", "63.2%", "45.8%", "23%"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A point charge is surrounded by eight identical charges at a distance r as shown in figure. How much work is done by the force of electrostatic repulsion when the point charge at the centre is removed to infinity",
+      "options": ["zero", "8q²/4π εr", "64q²/4πεr ", " 64q²/4πεr"],
+      "answer": "B",
+      "images": ["NIMG-46.jpg "],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A infinitely long non-conducting cylinder of inner radius 5 cm and outer radius 7 cm has uniform volume charge density p= 8.85 x 10 C/m². The magnitude of electric field at a distance of 10 cm from axis of the cylinder is :",
+      "options": ["12 N/C", "6N/C", "18N/C", "24N/C"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Electromagnetic force is.....",
+      "options": [
+        "only attractive",
+        "Attractive and repulsive",
+        "Only repulsive",
+        "Short range force"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "If time of flight of a projectile is 10 seconds. Range is 500 m. The maximum height attained by it will be",
+      "options": ["125m", "50m", "100m", "150m"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " In the figure, below the equivalent resistance between A and B is",
+      "options": ["17/24", "4/3", "29", "24/17"],
+      "answer": " B",
+      "images": [" NIMG-2.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "If the units of length and force are increased four times, then the unit of energy will:",
+      "options": [
+        "Increase 8 times",
+        "Increase 16 times",
+        "Decrease 16 times",
+        "Increase 4 times"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "In the meter bridge shown, the resistance R has a negative temperature coefficient of resistance. Neglecting the variation in other resistors, when current is passed for some time, in the circuit, balance point should shift towards",
+      "options": ["A", "B", "First A then B", "It will remain at C"],
+      "answer": "B ",
+      "images": ["NIMG-48.jpg "],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": ".The rest mass of a photon is - ",
+      "options": ["hv/c²", "hv/c ", "hv", "zero"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "At point A on the earth's surface, the angle of dip is, &= +25°. At a point B on the earth's surface, the angle of dip is, 8=-25. We can interpret that:",
+      "options": [
+        "A and B are both located in the southern hemisphere",
+        "A and B are both located in the northern hemisphere",
+        "A is located in the souhthern hemisphere and B is located in the northern hemisphere ",
+        "A is located in the northern hemisphere and B is located in the southern hemisphere"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    }
+  ]
+}

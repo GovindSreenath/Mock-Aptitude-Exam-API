@@ -5,8 +5,6 @@ import SelectTopic from "./select_topic";
 import MCQEngine from "../exam/main";
 import Result from "../results/main";
 
-import firebase from "../../firebase";
-
 import "bootstrap/dist/css/bootstrap.css";
 import "../../styles/index.css";
 import axios from "axios";
@@ -72,7 +70,7 @@ export default class Main extends Component {
 
   selectedTopic = async (id, limit) => {
     try {
-      let res = await axios.get(`/api/apti?topic=${id}&limit=${limit}`);
+      let res = await axios.get(`/api/apti`);
 
       this.setState({ mcqs: res.data.mcq, inExam: 1, whichExam: id });
     } catch (err) {
@@ -85,17 +83,17 @@ export default class Main extends Component {
   };
 
   handleSetState = async (data) => {
-    const db = firebase.firestore();
-    await db
-      .collection(this.state.whichExam)
-      .doc(this.state.id)
-      .set(
-        {
-          score: this.calcResult(data.mcqs),
-          time: data.absTime,
-        },
-        { merge: true }
-      );
+    // const db = firebase.firestore();
+    // await db
+    //   .collection(this.state.whichExam)
+    //   .doc(this.state.id)
+    //   .set(
+    //     {
+    //       score: this.calcResult(data.mcqs),
+    //       time: data.absTime,
+    //     },
+    //     { merge: true }
+    //   );
 
     this.setState(data);
 

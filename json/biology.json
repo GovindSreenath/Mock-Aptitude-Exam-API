@@ -1,0 +1,1097 @@
+{
+  "mcqs": [
+    {
+      "question": ".GnRH, a hypothalamic hormone, needed in reproduction, acts on",
+      "options": [
+        "anterior pituitary gland and stimulates secretion ofLH and FSH",
+        "posterior pituitary gland and stimulates secretion of oxytocin andFSH",
+        "posterior pituitary gland and stimulates secretion of LH andrelaxin",
+        "anterior pituitary gland and stimulates secretion of LH andoxytocin."
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Sponges capture food with the help of",
+      "options": ["pinacocytes", "choanocytes", "trophocytes", "theocytes"],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "birds are",
+      "options": [
+        "cold blooded",
+        "homeothermal",
+        "poikilothermal",
+        "homeopoiesis"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Ericis the youngest of the three, so the third statement must be false."
+    },
+
+    {
+      "question": "’portuguese man of war’ is",
+      "options": [
+        "soldier of world war1 ",
+        "portuguese soldier",
+        "a sponge",
+        "A polymorphic, colonial, coelenterata"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Which of the following is correctly matched?",
+      "options": [
+        "Human-Renalportalsystem",
+        "Earthworm-Closed circulatory system",
+        "Cockroach-Nephridia",
+        "All of the above"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Sperms in male cockroach are stored in which part ofthe reproductive system ",
+      "options": [
+        "vas deferens",
+        "testis",
+        "mushroom gland",
+        "seminalvesicles"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Malignant tertain malaria is caused by ",
+      "options": ["vivax", "falciparum", "ovale", "malariae"],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Interferons-secreted by",
+      "options": ["liver", "spleen", "virus-infected-cells", "lymphocytes"],
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "The type of immunity responsible for graft rejection by a recipient body ",
+      "options": [
+        "Innate-immunity",
+        "Humoral-immunity ",
+        "Cell-mediatedimmunity",
+        "Both 2 and 3 "
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Partial pressure of oxygen in the blood flowing through pulmonary artery ",
+      "options": ["40mmHg", "45mmHg", "95mmHg", "104mmHg"],
+      "answer": "A",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Respiratory rhythm centre is located in ",
+      "options": ["medulla", "pons", "hypothalamus", "cerebellum"],
+      "answer": "A",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "In a surface ECG the QRS complex represents ",
+      "options": [
+        "Atrial depolarization",
+        " Atrial repolarization ",
+        "Ventricular repolarization",
+        "Ventricular depolarization"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "A person with unknown blood group under ABO system has suffered much blood loss in an accident and needs immediate blood transfusion. His one friend who has a valid certificate of his own blood type offers blood donation without delay. What would have been the type of blood group of the donor friend?",
+      "options": ["TYPE AB", "TYPE A", "TYPE B", "TYPE O"],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "The cells that release histamine and heparin in blood",
+      "options": ["Basophils", "Eosinophils", "Neutrophil", " Mast cells"],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "Each seminiferous tubule is lined on its inside by",
+      "options": [
+        "spermatogonia",
+        "primary spermaticytes",
+        "sertoli cells",
+        "both 1 and 3"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": " How many statements are correct about evolution of darwins finches : (a) They evolve through adaptive radiation (b) All varieties evolved were homologous  (c) Adaptive radiation is also shown by Australian marsupials (d) When more then one adaptive radiation appeared to have occured in isolated geographical area is known as convergent evolution ",
+      "options": ["4", "3 ", "2", "1"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The efferent processes of neurons are known as",
+      "options": ["Dendrite ", " Axon ", " Neurofibril", "Cyton"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Seminal plasma is rich in",
+      "options": [
+        "Sucrose,calcium and certain enzyme",
+        " Glucose,sodium and certain enzyme",
+        " Fructose,calcium and certain enzyme",
+        "Fructose,sodium and certain enzyme"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " What causes the onset of puberty in males?",
+      "options": [
+        "Increase in secretion of testosterone by testis",
+        "Decrease in secretion of testosterone by testis ",
+        " Increase in secretion of GnRH by hypothalamus",
+        "Decrease in secretion of GnRH by hypothalamus"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Hysterectomy is the surgical removal of ",
+      "options": [
+        "mammary glands",
+        "vas deferens ",
+        "uterus ",
+        "prostate gland"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "World AIDS Day is ",
+      "options": ["December 21", "December 1", "November 21 ", "November1"],
+      "answer": " B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Adaptive radiation refers to ",
+      "options": [
+        "adaptations due to geographical isolation",
+        " evolution of different species from a common ancestor",
+        "migration of members of a species to different geographical areas ",
+        "power of adaptation in an individual to a variety of environments"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Observe the following figure and choose the correct statement.",
+      "options": [
+        "skull of r is more like p than q because they have common ancestors named dryopithecus",
+        "skull of p shares similarities with r and not with q",
+        "skull of q is more like r than p because they have common ancestor named ramapithecus",
+        "skull of q is more like p and r because they have a common ancestor named dryopithecus"
+      ],
+      "answer": "D",
+      "images": ["NIMG-38.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Who among the following was a proponent of the hypothesis of acquired traits  ",
+      "options": [
+        "August Weismann ",
+        "Charles Darwin ",
+        " Jean Baptiste Lamarck",
+        "H.W. Bates"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Identify correctly the labeled parts in the following diagram. ",
+      "options": [
+        "A = Adrenal gland, B = Pelvis, C = Medulla, D = Cortex",
+        " A = Adrenal gland, B = Pelvis, C = Cortex, D = Medulla",
+        " A = Adrenal gland, B = Cortex, C = Pelvis, D = Medulla",
+        "A = Renal capsule, B = Pelvis, C = Medulla, D = Cortex"
+      ],
+      "answer": "A",
+      "images": ["NIMG-40.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Morphine is extracted from ",
+      "options": [
+        "flowering tops of Cannabis sativa",
+        "latex from unripe seed capsules of the poppy plant, Papaver somniferum ",
+        " leaves of Erythroxylum coca",
+        "egrot fungus, Claviceps purpurea"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Read the following statements regarding biological museums. (i) Biological museums are generally set up in educational institutes such as schools and colleges. (ii) Museums have collections of preserved plant and animal specimens for study and reference. (iii) Specimens are preserved in the containers or jars in preservative solutions. (iv) Insects are preserved in insect boxes after collecting. killing and pinning. (v) Larger animals like birds and mammals are usually stuffed and preserved. (vi) Skeletons of mammals are not allowed to be kept in museums. Which of the above statements is/are not correct?",
+      "options": ["(ii) and (iii)", " (i) and (vi)", " (v) only", "(vi) only"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The tissue depicted in the following diagram is ",
+      "options": [
+        "Cartilage present in the ends of long bones",
+        " Dense regular connective present in the tendons",
+        "Dense irregular connective tissue present in the skin ",
+        "Loose connective tissue found in the capsule of abdominal organs"
+      ],
+      "answer": "C",
+      "images": ["NIMG-42.jpg", ""],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which among the following organs possess all the four types of tissue? ",
+      "options": ["Skin", " Stomach", " Heart", "Fallopian tubes"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which one of the following statements is incorrect about menstruation? ",
+      "options": [
+        "At menopause in the female, there is especially abrupt increase in gonadotropic hormones",
+        " The beginning of the cycle of menstruation is called menarche",
+        " During normal menstruation about 40 ml blood is lost ",
+        "The menstrual fluid can easily clot"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which of the following group is right for fresh water fishes?",
+      "options": [
+        "Catla, Rohu, Mackerel",
+        "Major carp, Hilsa, Sardines ",
+        "Mrigal, Mackerel, Promfrets ",
+        "Rohu, Mrigal, Catla"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Cornea transplant in humans is almost never rejected. This is because ",
+      "options": [
+        "its cells are least penetrable by bacteria",
+        "it has no blood supply ",
+        " it is composed of enucleated cells",
+        "it is a non-living layer"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Floating ribs of thoracic cage are:",
+      "options": [
+        "1st to 7th Pair",
+        " 8th to 9th pair",
+        "8th to 12th pair ",
+        "11th and 12th pair"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following cannot be detected in a developing foetus by amniocentesis? ",
+      "options": [
+        "Jaundice",
+        "Sex of the foetus",
+        "Klinfelter's syndrome ",
+        "Down's syndrome"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "In case of poriferans, the spongocoel is lined with flagellated cells called: ",
+      "options": ["oscula", "choanocytes ", "mesenchymal cell ", "ostia"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Infertility cases like inability of the male partner to inseminate the female or very low sperm count in the ejaculate could be corrected by ",
+      "options": [
+        "Gamete intra fallopian transfer”,” Zygote intra fallopian transfer ",
+        " Intra uterine transfer ",
+        "Intra uterine transfer"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which statement is incorrect for cymoseinflorescence ?",
+      "options": [
+        "Basipetal arrangement of flowers",
+        " The main axis continues to grow ",
+        " The main axis terminates in a flower ",
+        " Definite inflorescence"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " In Kranz anatomy bundle sheath cells have ",
+      "options": [
+        "Thick walls, many intercellular spaces, few chloroplast ",
+        " Thin walls, no intercellular spaces, many chloroplasts ",
+        " Thin walls, many intercellular spaces, no chloroplast",
+        " Thick walls, no intercellular spaces,  large number of chloroplast."
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " The process making major difference between C3 and C4 plants ",
+      "options": [
+        "Respiration",
+        " Calvin cycle ",
+        " Photorespiration ",
+        " Glycolysis"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Avena coleoptile curvature test is used for bioassay of a hormone 'X'. 'X' can be artificially used to a. Induce parthenocarpy in tomatoes. b. Promote shooting in callus.  c. Remove dicot weeds from crop fields. ",
+      "options": ["a only", "b only", "b and c ", "a and c"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Identify the incorrectly matched pair:",
+      "options": [
+        "cork cambium - periderm",
+        " ground meristem - cortex and pith of a dicot stem",
+        " procambium - primary vascular tissue",
+        " protoderm - vascular tissue of a monocot stem"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "  The scientific name of banyan is written as Ficus bengalensis L. Which of the following statements is correct regarding this?",
+      "options": [
+        "Letter L.signifies Latin language ",
+        " The name should be written reverse with bengalensis preceding Ficus.",
+        " Letter L. signifies the taxonomist Linnaeus.",
+        " Bengalensis is generic name."
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " Planaria's most remarkable characteristics is its ability to",
+      "options": [
+        "Hibernate",
+        " survive without air",
+        " generate bioluminescence",
+        " regenarate"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Budding, in hydra ,is a form",
+      "options": [
+        "Apoptosis",
+        " sexual reproduction ",
+        " asexual reproduction ",
+        " none of the above"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The two nuclei at the end of the pollen tube are called ",
+      "options": [
+        "tube nucleus and generative nucleus",
+        " sperm and ovum",
+        " generative nucleus and stigma",
+        " tube nucleus and sperm"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Pollen grains lose their viability  within 30 minutes of their release in",
+      "options": [" rose", "potato", "pea", "wheat"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The pistil of Papaver is",
+      "options": [
+        "monocarpellary",
+        " multicarpellary apocarpous",
+        " multicarpellary syncarpous",
+        "absent"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The path of water from soil upto secondary xylem is",
+      "options": [
+        "Soil → Root hair cell wall → Cortex → Endodermis → Pericycle → Protoxylem →→ Metaxylem",
+        " Metaxylem Protoxylem → Cortex → Soil → Root hair",
+        " Cortex → Root hair → Endodermis → Pericycle →Protoxylem → Metaxylem",
+        " Pericycle → Soil→ Root hair → Cortex →Endodermis→ Protoxylem → Metaxylem"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Stomata open at night and close during day in",
+      "options": [" Xerophytes", " Gametophytes", "Mesophytes", " Hydrophytes"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which group of element is not essential for a normal plant?",
+      "options": [
+        "Potassium, calcium, magnesium ",
+        " Iron, zinc, manganese, boron",
+        " Lead, nickel, iodine, sodium",
+        " Magnesium, iron, molybdenum"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Technique of growing plants without soil in nutrient solutions is called",
+      "options": [
+        "Parthenogenesis",
+        "Hydroponics",
+        "Aquaculture",
+        "Tissue culture"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which element forms part of structure of chlorophyll  molecule ",
+      "options": ["Fe", "Mg", "K", "Mn"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which of the following pair of minerals are required by plants for chlorophyll synthesis?",
+      "options": ["Fe and Mn", " Cu and Mg", " Fe and Mg", " Mg and Mo"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Among china rose, mustard, brinjal, potato, guava Cucumber, onion and tulip, how many plants have superior ovary?",
+      "options": [" Three", " Five", " Four", " Six"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Krebs' cycle starts with the formation of a 6 carbon compound by reaction between ",
+      "options": [
+        " Malic acid and acetyl coenzyme A ",
+        " Succinic acid and pyruvic acid",
+        " Fumaric acid and pyruvic ",
+        " Oxaloacetic acid and acetyl coenzyme A"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Cytochromes in plant cells function mainly as",
+      "options": [
+        "Oxygen acceptor",
+        " CO₂ acceptor",
+        " Electron acceptor ",
+        " H₂O acceptor"
+      ],
+      "answer": " C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The replication of nuclear    DNA occurs in",
+      "options": ["G₁ phase ", " G₂ phase ", " S phase", " M phase"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": ". Colchicum obtained from Colchicum autumnale plant, affects which stage of cell division?",
+      "options": ["Metaphase", " Prophase", " Telophase", " Anaphase"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Go state of cells in eukaryotic cell cycle denotes ",
+      "options": [
+        "Check point before entering the next phase ",
+        " Pausing in the middle of a cycle to cope with a temporary delay",
+        " Death of a cell",
+        " Exit of cells from cell cycle"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Mitosis is the process by which eukaryotic cells ",
+      "options": [
+        "Expose the genes for protein synthesis ",
+        " Become specialized in structure and function",
+        " Multiply",
+        " Grow"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A technique of micropropagation is",
+      "options": [
+        "Embryo rescue",
+        " Protoplast fusion ",
+        " Somatic hybridization",
+        ". Somatic embryogenesis"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A system of rotating crops with legume or grass pasture to improve soil structure are fertility is called",
+      "options": [
+        "Strip farming",
+        " Ley farming ",
+        " Contour farming",
+        " Shifting agriculture"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " In vitro clonal propagation in plant is characterized by ",
+      "options": [
+        "Microscopy",
+        " PCR and RAPD ",
+        " Northern Blotting ",
+        " PCR and RAPD"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Which of the following enhances or induces fusion of protoplasts? ",
+      "options": [
+        "IAA and gibberellins",
+        " IAA and kinetin ",
+        " Sodium chloride and potassium chloride",
+        " Polyethylene glycol and sodium nitrate"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Monascus purpureus is a yeast used commercially in the production of",
+      "options": [
+        "Citric acid",
+        " Ethanol",
+        " Blood cholesterol lowering strains ",
+        " None of the above"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A good producer of citric acid is  ",
+      "options": [
+        "Clostridium",
+        " Saccharomyces",
+        " Pseudomonas",
+        " Aspergillus"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Father of genetics, G.J. Mendel lived in:",
+      "options": [
+        "18th Century",
+        " 20th Century ",
+        " 19 Century ",
+        " 17th Century"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The year 1856 is important in the history of classical genetics as there happened",
+      "options": [
+        "Beginning of hybridisationexperiment by Mendel",
+        " Publishment of Mendel's work",
+        " Re-discovery of Mendelism  ",
+        " Chromosome theory of inheritance"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " According to Mendel, character is controlled by two discrete units, these units in modern terminology is named as:",
+      "options": ["Factors", " Transcripts ", " Alleles", " Particles"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Among the following who is not a re-discoverer of Mendelism :",
+      "options": [
+        "Carl Correns",
+        " Hugo de Vries",
+        "Eric Von Tschermack  ",
+        " William Bateson"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The formula for exponential population growth is ",
+      "options": ["dN/rN =dt", " dt/dN = rN ", " dN/dt = rN ", " dN/dN =dt"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "In a polymerase chain reaction, temperature required for the steps (i) Denaturation, (ii) Annealing and (iii) Extension are respectively.",
+      "options": [
+        "(i) 94°C (ii) 40°C (iii) 72°C",
+        " (i) 40°C (ii) 72°C (iii) 94°C",
+        " (i) 94°C (ii) 72°C (iii) 40°C",
+        " (i) 72°C (ii) 94°C (iii) 40°C"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Velamen & spongy tissue is found in - ",
+      "options": [
+        "Parasitic roots",
+        " Breathing roots",
+        " Tuberous roots ",
+        " Epiphytic roots"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following tools of recombinant DNA ",
+      "options": [
+        "EcoRI - Production of sticky ends technology is incorrectly paired with its use? amplify sections of DNA",
+        " DNA ligase - Multiplication of rDNA molecules ",
+        "DNA polymerase - In polymerase chain reaction to ",
+        " Selectable marker - Identification of transformants"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Richmond Lang effect is associated with ",
+      "options": ["Auxin", " Gibberellin", "  Ethylene ", " Cytokinin"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Process of differentiation and morphogenesis in plants is associated with",
+      "options": [
+        "Auxin and Gibberellin",
+        " Auxin and Cytokinin",
+        "  Gibberellin and Cytokinin",
+        " Gibberellin and Abscisic acid"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A block of agar containing a plant hormone is kept on one side of decapitated apex of Avena coleoptile. There is development of curvature and bending of stem on the other side. The hormone present in agar block is ",
+      "options": ["IAA", "CK ", " ABA ", " GA"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "A fatty acid with no double bond and high melting point are A saturated fatty acid is ",
+      "options": [
+        "Saturated in nature",
+        " Unsaturated in nature",
+        " Both (a) and (b) ",
+        "None of these "
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Arachidonic acids are",
+      "options": [
+        "Aromatic",
+        " Unsaturated",
+        " Saturated ",
+        " Both (b) and (c)"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " Super ovulation and embryo transplantation are ment for improving ",
+      "options": ["Human race ", " Poultry ", " Livestock ", " Plants "],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A plant cell without cell wall is called (A) proplast (C) nucleoplasm (D) explant ",
+      "options": ["proplast ", " protoplast ", " nucleoplasm ", " explan "],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Wastewater treatment generates a large quantity of sludge, which can be treated by ",
+      "options": [
+        "anaerobic digesters ",
+        " chemicals ",
+        " floc  ",
+        " oxidation pond "
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " Which one of the following alcoholic drinks is produced without distillation? ",
+      "options": ["Wine ", " Rum ", " Whisky ", " Brandy "],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " In-Situ situ conservation national genetic resources can be achieved by establishing ",
+      "options": [
+        "National park ",
+        " Bioshpere reserve ",
+        " Wild life sanctuaries  ",
+        " All of the above "
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " A collection of plants and seeds having diverse alleles of all the genes of a crop is called: ",
+      "options": ["Genome ", " Herbarium ", " Germplasm  ", " Gene library "],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": " .Which one of the following is not observed in biodiversity hotspots? ",
+      "options": [
+        "Lesser inter-specific competition ",
+        " Species richness ",
+        " Endemism  ",
+        " Accelerated species loss "
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Brunner's glands are found in",
+      "options": [
+        "mucosa of duodenum",
+        "mucosa of ileum",
+        "submucosa of duodenum",
+        "submucosa of ileum"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following guards the opening of hepatopancreatic duct into the duodenum?",
+      "options": [
+        "Pyloric sphincter",
+        "Sphincter of Oddi",
+        " Semilunar valve ",
+        "Ileocaecal valve"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Tidal Volume and Expiratory Reserve Volume of an athlete is 500 mL and 1000 mL respectively. What will be his expiratorycapacity if the residual volume is 1200 mL?",
+      "options": ["2700 mL", " 1700 mL", "1500 ml", "2200 mL"],
+
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Blood carries CO, mainly in which form? ",
+      "options": [
+        " HbCO,",
+        " NaHCO3",
+        "Carbonic acid ",
+        "HbCO, and carbon monoxide "
+      ],
+
+      "answer": "C",
+      "images": [],
+
+      "explanation": ""
+    },
+    {
+      "question": "The factor which does not affect the rate of alveolar diffusion is",
+      "options": [
+        "solubility of gases",
+        "thickness of the membranes",
+        "pressure gradient",
+        "reactivity of gases"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+
+    {
+      "question": "The frequency of heart beat in our body is maintained by",
+      "options": [
+        "AV Node ",
+        "SA Node ",
+        " Node of Ranvier ",
+        "Chordaetendineae."
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Deposition of fatty substances in the lining ofarteries is termed as",
+      "options": [
+        "arteriosclerosis ",
+        "atherosclerosis",
+        "arthritis",
+        "angiogenesis"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "The net glomerular filtration rate in an averageadult is ",
+      "options": ["75 mL min¹ ", "50 mL min ", " 125 mL min1", "100 mL min¹"],
+
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "The juxtaglomerular apparatus is a special region formed by close placement and cellular modifications in ",
+      "options": [
+        " proximal convoluted tubule and distal convolutedtubule",
+        "loop of Henle and collecting duct",
+        "afferent arteriole and distal convoluted tubule ",
+        "afferent arteriole and proximal convolutedtubule."
+      ],
+
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Calcium is important in skeletal muscle contraction because it",
+      "options": [
+        "binds to troponin to remove the masking of active sites on actin for myosin",
+        "activates the myosin ATPase by binding to it",
+        "detaches the myosin head from the actin filament",
+        "prevents the formation of bonds between the myosin cross bridges andthe actin filament."
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Myasthenia gravis is an example of",
+
+      "options": [
+        "viral diseases",
+        "immunodeficient diseases ",
+        "autoimmune diseases",
+        "allergic reaction."
+      ],
+
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Which part of the brain is responsible for thermoregulation?",
+      "options": [
+        "Medulla oblongata",
+        "Cerebrum",
+        "Hypothalamus",
+        "Corpus callosum"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "Myelin sheath is produced by",
+      "options": [
+        "astrocytes and Schwann cells",
+        "oligodendrocytes and osteoclasts",
+        "osteoclasts and astrocytes",
+        "Schwann cells and oligodendrocytes."
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": "The condition in which the kidneys fail to conserve water leading to water loss and dehydration due to impaired ADH synthesisor release in",
+      "options": [
+        "Grave's disease",
+        "Addison's disease",
+        "diabetes insipidus",
+        "cretinism"
+      ],
+
+      "answer": "C",
+      "images": [],
+      "explanation": ""
+    },
+    {
+      "question": ".Which of the following statements is correct in relation to the endocrine system?",
+      "options": [
+        "Non-nutrient chemicals produced by the body in trace amounts that act as intercellular messenger are known as hormones. ",
+        " Releasing and inhibitory hormones are produced by the pituitarygland. ",
+        "Adenohypophysis is under direct neural regulation of the hypothalamus.",
+        " Organs in the body like gastrointestinal tract, heart,kidney and liver do not produce any hormones"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": ""
+    }
+  ]
+}

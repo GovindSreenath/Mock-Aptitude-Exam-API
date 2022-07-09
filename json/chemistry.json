@@ -1,0 +1,482 @@
+{
+  "mcqs": [
+    {
+      "question": " Which of the following is the zero order reaction?",
+      "options": [
+        "N_2 O_(5 )decomposition",
+        "SO_2 Cl_2 decomposition",
+        "HI decomposition on cold surface",
+        "Inversion of cane sugar"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following statement is correct for zero order reaction?",
+      "options": [
+        "Reaction rate is doubled when initial concentration is doubled",
+        "The time for half change is half the time taken for the completion of the reaction",
+        "The time for half change is independent of initial concentration",
+        " The time for completion of reaction is independent of initial concentration"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "A colloid in which dispersed phase is solid and dispersed medium is gas is",
+      "options": ["coloured glass", "smoke and dust", "milk", "froth"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The vapour pressure of a pure liquid A is 40 mm Hg at 310 K. The vapour pressure of this liquid in a solution with liquid B is 32 mm Hg. Mol fraction of A in the solution, if it obeys Raoult's law, is:",
+      "options": ["0.8", "0.5", "0.2", "0.4"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "A single compound of the structure is obtainable from ozonolysis of which of the following cyclic compounds?",
+      "options": ["A", "B", "C", "D"],
+      "answer": "C",
+      "images": ["NIMG-30-1.jpg", "NIMG-30-2.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Reaction by which Benzaldehyde cannotbe prepared",
+      "options": ["A", "B", "C", "D"],
+      "answer": "D",
+      "images": ["NIMG-31.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following statements are correct with respect to the effect of trifluoromethyl group (-CF3) on an electrophilic aromatic substitution?(i) The CF3 group will deactivate the ring(ii) The CF3 group will activate the ring(iii) The CF3 group will be an ortho, para director(iv) The CF3 group will be meta director",
+      "options": [
+        "(i), and (ii)",
+        "(i) and (iv)",
+        " (i) and (iii)",
+        "(ii) and (iii)"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "R-CH₂ OH, R - CHO and R-COOH on reduction with red P and HI gives -",
+      "options": ["R-CO-R ", " R-CH3", "R-O-R", "RCO-0-CO-R"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "In a Cannizzaro reaction, the intermediate that will be the best hydride donor is",
+      "options": ["A", "B", "C", "D"],
+      "answer": "D",
+      "images": ["NIMG-34.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The correct increasing order of basic strength for the following compounds is",
+      "options": ["A", "B", "C", "D"],
+      "answer": "D",
+      "images": ["NIMG-35-1.jpg", "NIMG-35-2.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Aniline in a set of the following reactions yielded a coloured product 'Y'",
+      "options": ["A", "B", "C", "D"],
+      "answer": "A",
+      "images": ["NIMG-36.jpg", "NMIG-36-2.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Eight mole of a gas AB_3 attain equilibrium in a closed container of volume 1 dm³ as, 2 (AB_3)=A_2(g) + 3 (B_2)(g). If at equilibrium 2 mole of A_2 are present then, equilibrium constant is:",
+      "options": ["72 mol²L-²", "36 mol²L-²", "3 mol²L-²", "27 mol²L-²"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Solubility of an aqueous solution of Mg(OH)_2is X mol litre¹, then its Ksp is:",
+      "options": ["4X³", "108X⁵", "27X⁴", "9X"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "To a 200 ml of 0.1 M weak acid HA solution 90 ml of 0.1 M solution of NaOH be added, Now, what volume of 0.1 M NaOH be added into above solution so that pH of resulting solution be 5.[Ka(HA) = 10-5]",
+      "options": ["2 ml", " 20 ml", " 10 ml", "15 ml"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " the Victor-Meyer's test, the colors given by 1:2 and 3 alcohols are respectively.",
+      "options": [
+        "Red, Colourless, Blue ",
+        "Red, Blue, Colourless",
+        "Colourless, Red, Blue ",
+        "Blue, Red, Violet"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Phenol when first treated with concentrated so, and then with conc. HNO, gives ",
+      "options": [
+        "2, 4, 6-Trinitrophenol",
+        " o-Nitrophenol",
+        " p-Nitrophenol ",
+        "Nitrobenzene"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Propan-1-ol can be prepared from propene by",
+      "options": [
+        "H₂O/H_2 SO_4",
+        " Hg(OAc)/HO, followed by NaBH,",
+        " B_2 H_6, followed by H₂O ",
+        "CH_3 CO_2/H_2 SO_4"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Lead is not affected by dil. HCl in the cold because",
+      "options": [
+        "A protective coating of PbCl2 is formed on the metal.",
+        " Pb is less electropositive than H_2",
+        "PbO film is formed which resists chemical attack by the acid.",
+        "PbO_2 film is always present on the metal which resists chemical attack."
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "20 ml of a H3PO4, solution needs 40 ml of 0.1 M NaOH to convert it into sodium dihydrogen phosphate. How much volume of 0.1 M Ca(OH)2 is needed to neutralise the same volume of same H3PO4, completely",
+      "options": ["120 ml", "40 ml", "20 ml", "60 ml"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Pollutant forms by burning of fossil fuels.",
+      "options": [
+        "Nitrogen dioxide ",
+        " Nitric acid",
+        "Nitrous oxide",
+        " Sulphur dioxide"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The IUPAC name of the compound is",
+      "options": [
+        "5-formylhex-2-en-3-one",
+        "5-methyl-4-oxohex-2en-5-al",
+        " 3-keto-2methylhex-5-enal",
+        "3-keto-2-methylhex-4enal"
+      ],
+      "answer": "D",
+      "images": ["NIMG-46.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The spectral line of the shortest wavelength in Balmer series of atomic hydrogen will be",
+      "options": ["4215 A^0", "1437 A^0", "3942 A^0", " 3647 A^0"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "What is normality of 0.30 M H3PO4, (a tribasic acid) in the following reaction?",
+      "options": ["0.30 N", " 0.60 N", " 0.90 N", "0.15 N"],
+      "answer": "B",
+      "images": [],
+      "explanation": "Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false."
+    },
+    {
+      "question": "What percent of a sample of nitrogen must be allowed to escape if its temperature, pressure and volume are to be changed from 220°C, 3.0 atm and 1.65 L to 110°C, 0.7 atm and 1.0 L, respectively?",
+      "options": ["41.4%", "8.18%", " 4.14%", " 81.8%"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following thermodynamic quantities is an outcome of the second law of thermodynamics?",
+      "options": ["Work", "Enthalpy", "Internal energy", "Entropy"],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "AS solid AB2 has fluorite type structure (CaF2). If all the atoms along one of the tetrad axes is removed, the formula of the solid will be",
+      "options": ["A2B5", "A3B8", " A3B5", " A5B8"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "NO_2is obtained by heating:",
+      "options": ["CsNO_3", " KNO_3", " L_i NO_3", " NaNO_3"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "10 volumes of H_2 O_2has a strength of approximately:",
+      "options": ["3%", "30%", "10%", "5%"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following monomers form biodegradable polymers?",
+      "options": [
+        "3-hydroxybutanoic acid + 3-hydroxypentanoic acid",
+        "Glycine + amino caproic acid",
+        "ethylene glycol + phthalic acid",
+        "both a and b"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Macromolecule chitin is",
+      "options": [
+        "Nitrogen-containing polysaccharide",
+        "phosphorous-containing polysaccharide",
+        "sulphur containing polysaccharide",
+        ".simple polysaccharide"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The chitinous exoskeleton of arthropods is formed by the polymerization of ",
+      "options": [
+        "D-glucosamine",
+        "lipoglycans",
+        "N – acetyl glucosamine",
+        "keratin sulphate and chondroitin sulphate"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": ".Ibuprofen contains",
+      "options": [
+        "only S-enantiomer",
+        "only R-enantiomer",
+        "the racemic mixture of both R and S enantiomer",
+        "none of the above"
+      ],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following is a hypnotic drug?",
+      "options": ["luminal", "salol", "catechol", "chemisol"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "one mole of a mixture of CO and CO_2, requires exactly 20 grams of NaOH to convert all the co, into Na_2 CO_3, How many more grams of NaOH would it require for conversion into Na_2 CO_3, if the mixture (one mole) is completely oxidised to CO_2",
+      "options": ["60 g", "80 g", "40 g", "20 g"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "The graph of first ionization enthalpy versus atomic number as follows: Which of the following statement is correct?",
+      "options": [
+        "Alkali metals are at the maxima and noble gases at the minima",
+        "Noble gases are at the maxima and akali metals at the minima",
+        "Transition elements are at the maxima",
+        "Minima and maxima do not show any regular behaviour"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Principle Quantum number describes",
+      "options": [
+        "Size of orbital",
+        "Shape of orbital",
+        "Spin of orbital",
+        " Orientation of an orbital"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": ".The equivalent conductance of NaCl at concentration Cand at infinite dilution are λc and λ∞, respectively.The correct relationship between λc and λ∞, is given as (where, the constant B is positive)",
+      "options": [
+        "λc = λ∞ + (B)√C ",
+        "λc = λ∞ + (B)C",
+        "λc = λ∞ - (B)C",
+        "λc = λ∞ - (B)√C"
+      ],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+
+    {
+      "question": "Oxidation number of potassium in K₂O, K₂O₂ and KO₂, respectively, is",
+      "options": [
+        "+1, +1 and +1",
+        "+2, +1 and +1/2",
+        "+1, +2 and +4",
+        "+1, +4 and +2"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " What type of crystal defect is indicated in the diagram ",
+      "options": [
+        "Frenkel defect",
+        "Schottky defect",
+        "Interstitial defect",
+        "Frenkel and Schottky defects"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " The given reaction is 4 H(g) → 2H2 (g). The enthalpy change for the reaction is – 869.6kJ.The dissociation energy of the H–H bond is ",
+      "options": ["-869.6kJ ", "+ 434.8kJ ", "+217.4kJ ", "-434.8kJ "],
+      "answer": "D",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": " Maximum deviation from ideal gas is expected from ",
+      "options": ["N_2", " CH_4", " NH_3", "H_2"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following hydrocarbon is formed,when benzene reacts with three chlorine molecules under UV condition ?",
+      "options": [
+        "Hexachlorobenzene",
+        "Benzene hexachloride",
+        "Chlorobenzene",
+        "Chlorohexane"
+      ],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "When ethyne is subjected to ozonolysis ,what is the end product formed?",
+      "options": ["formic acid", "acetic acid", "oxalic acid", "glucose"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Find Z in the following reaction",
+      "options": [
+        "Ethyl bromide",
+        "Ethylene bromide",
+        "Ethylidene bromide",
+        "Ethanol"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Ammonia evolved from 0.75 g of the soil sample in the Kjeldahl’s method for nitrogen estimation, neutralises 10 ml of 1M H2SO4. Find the percentage of nitrogen present in the soil",
+      "options": ["35.33", "37.33", "43.33", "45.33"],
+      "answer": "B",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Find the alkane (C5H12), which will give only one type of monohalogenated compound",
+      "options": [
+        "2,2-dimethylpropane",
+        "2-methylbutane",
+        "cyclopentane",
+        " n-pentane"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Match List-l with List-II",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "answer": "B",
+      "images": ["NIMG-11.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Zr (Z=40) and Hf (Z=72) have similar atomic and ionic radii because of:",
+      "options": [
+        "lanthanoid contraction",
+        "having similar chemical properties",
+        "belonging to same group",
+        "diagonal relationship"
+      ],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Concentrated nitric acid reacts with iodine to give",
+      "options": ["HOI", "HI", " HIO3", "HIO4"],
+      "answer": "C",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Which of the following compound is weakest Lewis acid?",
+      "options": ["BF_3", "BCl_3", "BBr_3", "BI_3"],
+      "answer": "A",
+      "images": [],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    },
+    {
+      "question": "Match the compounds of Xe in column I with the molecular structure in column II.",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "answer": "D",
+      "images": ["NIMG-15.jpg"],
+      "explanation": " Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false. "
+    }
+  ]
+}

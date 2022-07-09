@@ -9,6 +9,21 @@ const PORT = process.env.PORT || 5000;
 const app = express();
 app.use(express.json());
 
+function readJsonFile(name, limit) {
+  return new Promise((resolve, reject) => {
+    fs.readFile(
+      path.join(__dirname, "json", `${name}.json`),
+      "utf8",
+      (err, data) => {
+        if (err) {
+          return reject(err);
+        }
+        return resolve(JSON.parse(data)["mcqs"].slice(0, limit));
+      }
+    );
+  });
+}
+
 mongoose
   .connect(process.env.URI, {
     useNewUrlParser: true,
@@ -18,11 +33,11 @@ mongoose
     app.post("/api/saveResult", async (req, res) => {
       try {
         let user = await Users.findOne({
-          userName: req.query.id
+          userName: req.query.id,
         });
-        if(user.result){
-          throw new Error("Result already saved for", user.userName)
-        };
+        if (user.result) {
+          throw new Error("Result already saved for", user.userName);
+        }
         await Users.updateOne(
           { userName: req.query.id },
           { result: req.query.result }
@@ -43,7 +58,7 @@ mongoose
         if (!user) {
           return res.status(400).send("User Not found");
         }
-        if(user.result){
+        if (user.result) {
           let err = "User" + user.userName + "already attempted";
           console.error(err);
           return res.status(400).send(err);
@@ -56,24 +71,19 @@ mongoose
       });
     });
 
-    app.get("/api/apti", (req, res) => {
-      if (req.query.limit <= 250) {
-        fs.readFile(
-          path.join(__dirname, "json", `${req.query.topic}.json`),
-          "utf8",
-          (err, data) => {
-            if (!err) {
-              let test = JSON.parse(data);
-              let list = test["mcqs"];
-              const shuffled = list.slice(0, req.query.limit);
+    app.get("/api/apti", async(req, res) => {
+      let finalResult = [];
 
-              res.json({ mcq: shuffled });
-            }
-          }
-        );
-      } else {
-        res.status(400).end();
-      }
+      let result = await readJsonFile("physics", 50);
+      finalResult = finalResult.concat(result);
+      
+      result = await readJsonFile("chemistry", 50);
+      finalResult = finalResult.concat(result);
+      
+      result = await readJsonFile("biology", 100);
+      finalResult = finalResult.concat(result);
+
+      return res.json({mcq: finalResult});
     });
 
     app.get("/", (req, res) => {
